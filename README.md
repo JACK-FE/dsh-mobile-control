@@ -1,4 +1,4 @@
-# dsh-moblie-control
+# dsh-mobile-control
 
 用手机远程操控电脑上的 DSH，让电脑替你干活。
 
